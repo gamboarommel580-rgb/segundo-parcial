@@ -1,9 +1,9 @@
-package arboles.negocio;
+package grupo1.arboles.negocio;
 
-import arboles.modelo.Nodo;
+import grupo1.arboles.modelo.Nodo;
 
 public class ArbolBinario<T> {
-
+ 
     private Nodo<T> raiz;
 
     public ArbolBinario() { this.raiz = null; }

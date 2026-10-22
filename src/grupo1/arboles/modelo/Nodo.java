@@ -1,11 +1,11 @@
-package arboles.modelo;
+package grupo1.arboles.modelo;
 
 public class Nodo<T> {
 
     private T dato;
     private Nodo<T> izquierdo;
     private Nodo<T> derecho;
-
+ 
     public Nodo(T dato) {
         this.dato = dato;
         this.izquierdo = null;

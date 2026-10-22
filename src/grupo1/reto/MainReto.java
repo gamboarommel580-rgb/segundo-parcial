@@ -1,9 +1,9 @@
-package reto;
+package grupo1.reto;
 
-import arboles.modelo.Nodo;
-import arboles.negocio.ArbolBinario;
-import arboles.app.VistaArbol;
-
+import grupo1.arboles.modelo.Nodo;
+import grupo1.arboles.negocio.ArbolBinario;
+import grupo1.arboles.app.VistaArbol;
+ 
 public class MainReto {
 
     public static void main(String[] args) {

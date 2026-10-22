@@ -1,9 +1,9 @@
-package arboles.app;
+package grupo1.arboles.app;
 
-import arboles.modelo.Nodo;
-import arboles.negocio.ArbolBinario;
+import grupo1.arboles.modelo.Nodo;
+import grupo1.arboles.negocio.ArbolBinario;
 
-public class VistaArbol {
+public class VistaArbol { 
 
     private static final boolean UNICODE = false;
 
